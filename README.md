@@ -1,8 +1,9 @@
 ## Hi, I'm Sebastian 👋
 
-- I'm 32 years old
-- I programming iOS and iPadOS apps in SwiftUI
-- I love Xcode
+- I'm 32 years old 👨‍💻
+- I programming iOS and iPadOS apps on SwiftUI 🧾
+- I love Xcode 🛠
+- i love Apple 🍏
 
 
 ## Social 📷
@@ -18,6 +19,6 @@
 - [Baby-Sleep](https://apps.apple.com/de/app/baby-sounds-relax/id1552916873)
 
 
-## My recent videos
+## My recent videos 🎥
 
 - [SwiftUI List](https://www.youtube.com/watch?v=-lmVT4U_yDw&list=PLOTwPyf38btsmfvf58dHWJeqKBgER2AzX)
