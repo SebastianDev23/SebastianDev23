@@ -17,4 +17,4 @@
 - [Push-Ups](https://apps.apple.com/de/app/pushups/id1547308735?l=en)
 - [Baby-Sleep](https://apps.apple.com/de/app/baby-sounds-relax/id1552916873)
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 1.6k)
+![Test Image 4](https://www.clipartmax.com/png/middle/306-3062721_twitter-icon-flat-circle.png 1.6k)
