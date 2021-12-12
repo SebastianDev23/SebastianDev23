@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Sebastian 👋
 
-<!--
-**SebastianDev23/SebastianDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm 32 years old
+- I programming iOS and iPadOS apps in SwiftUI
+- I love Xcode
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social 📷
+
+- [info@nextcoding.de](mailto:info@nextcoding.de)
+- [nextcoding.de](https://www.nextcoding.de)
+- [Twitter](https://mobile.twitter.com/SebastianKL10)
+- [LinkedIn](https://www.linkedin.com/in/sebastian-klösel-2b2195141/)
+
+## Apps 📱
+
+- [Push-Ups](https://apps.apple.com/de/app/pushups/id1547308735?l=en)
+- [Baby-Sleep](https://apps.apple.com/de/app/baby-sounds-relax/id1552916873)
