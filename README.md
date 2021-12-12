@@ -9,7 +9,7 @@
 
 - [info@nextcoding.de](mailto:info@nextcoding.de)
 - [nextcoding.de](https://www.nextcoding.de)
-- ![Test Image 4](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png) [Twitter](https://mobile.twitter.com/SebastianKL10)
+- [Twitter](https://mobile.twitter.com/SebastianKL10)
 - [LinkedIn](https://www.linkedin.com/in/sebastian-klösel-2b2195141/)
 
 ## Apps 📱
