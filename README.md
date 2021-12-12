@@ -16,3 +16,8 @@
 
 - [Push-Ups](https://apps.apple.com/de/app/pushups/id1547308735?l=en)
 - [Baby-Sleep](https://apps.apple.com/de/app/baby-sounds-relax/id1552916873)
+
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<SebastianDev23>&theme=<THEME_NAME>" />
