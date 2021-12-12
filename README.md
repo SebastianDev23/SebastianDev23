@@ -21,3 +21,4 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<SebastianDev23>&theme=<THEME_NAME>" />
+[1.2]: http://i.imgur.com/wWzX9uB.png
