@@ -5,11 +5,13 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-- I'm 32 years old 👨‍💻
-- I programming iOS and iPadOS apps on SwiftUI 🧾
-- I love Xcode 🛠
-- i love Apple 🍏
+
+- 👨‍💻 I'm 32 years old 
+- 🧾 I programming iOS and iPadOS apps on SwiftUI 
+- 🌱 &nbsp;I’m currently learning SwiftUI
+- 🍏 i love Apple 
 
 
 ## Social 📷
@@ -31,6 +33,7 @@
 
 
 
+_______________________________________________________________________________________________________
 
 
 
