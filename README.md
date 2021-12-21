@@ -1,12 +1,4 @@
-
-
-
-
-
-![Test Image 1](https://github.com/SebastianDev23/SebastianDev23/blob/main/header.png)
-
-
-## Hi, I'm Sebastian 👋
+![ImageBanner](https://github.com/SebastianDev23/SebastianDev23/blob/main/header.png)
 
 - I'm 32 years old 👨‍💻
 - I programming iOS and iPadOS apps on SwiftUI 🧾
